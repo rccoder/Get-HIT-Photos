@@ -2,7 +2,7 @@ Get-HIT-Photos
 ===
 ###得到你想要的图片
 
-How Get-HIT-Photos
+Run
 ---
 **环境**
 
