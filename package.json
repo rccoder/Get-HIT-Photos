@@ -1,0 +1,27 @@
+{
+  "name": "Get-HIT-Photos",
+  "version": "1.0.0",
+  "description": "Get HIT Photos",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "http://github.com/rccoder/Get-HIT-Photos"
+  },
+  "keywords": [
+    "HIT",
+    "Photos"
+  ],
+  "author": "rccoder <rccoder@foxmail.com>",
+  "license": "MIT",
+  "bugs": {
+    "url": "https://github.com/rccoder/Get-HIT-Photos/issues"
+  },
+  "homepage": "https://github.com/rccoder/Get-HIT-Photos",
+  "dependencies": {
+    "mkdirp": "^0.5.1",
+    "request-promise": "^0.4.2"
+  }
+}
